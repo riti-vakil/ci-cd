@@ -3,6 +3,7 @@
   "description": "Study DevOps and implement CI/CD pipeline",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "build": "webpack",
     "test": "jest"
   },
